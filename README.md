@@ -79,3 +79,15 @@
    - 휴학생 가능, 자퇴/대학원 소속은 불가
 - 주최 : 과학기술정보통신부
 - [전국 대학생 앱 개발 챌린지 K-해커톤](http://www.k-hackathon.com/)
+
+<br>
+
+## 5.  2022년 한이음 ICT멘토링 공모전
+![image](https://user-images.githubusercontent.com/68285922/215025888-83c656e7-992d-4350-991c-4870b49d8727.png)
+
+- 일정
+   - 참가신청 22.8.1 ~ 8.22
+- 참가자격
+   - 2022년 한이음 ICT멘토링 진행 프로젝트 팀
+- 주최 : 과학기술정보통신부
+- [한이음 ICT멘토링 공모전](http://www.hanium.or.kr/portal/index.do)
