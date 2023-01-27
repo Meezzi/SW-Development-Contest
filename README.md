@@ -1,3 +1,5 @@
+
+
 # :date: SW-Development-Contest (개발 공모전 모음)
 
 #### 대학생을 대상으로 진행하는 개발 공모전 모음입니다.
@@ -7,7 +9,10 @@
 
 
 ## 1. 공개 SW 개발자 대회
-![image](https://user-images.githubusercontent.com/68285922/215020919-d02db510-7f60-4f6b-9c70-ae37c9030a81.png)
+
+<div align=center>
+<image src="https://user-images.githubusercontent.com/68285922/215020919-d02db510-7f60-4f6b-9c70-ae37c9030a81.png" width="600px">
+</div>
 
 - 일정
    - 참가접수 22.7.4 ~ 22.8.3
@@ -31,7 +36,8 @@
 <br>
 
 ## 2. SW개발보안 경진대회
-![image](https://user-images.githubusercontent.com/68285922/215021428-b51fdf16-8288-4925-86a0-d10efe6b8281.png)
+
+<div align=center><image src="https://user-images.githubusercontent.com/68285922/215021428-b51fdf16-8288-4925-86a0-d10efe6b8281.png" width="500px" height="650px"></div>
 
 - 일정
    - 참가신청 22.6.20 ~ 7.29
@@ -47,7 +53,7 @@
 <br>
 
 ## 3. K-디지털 챌린지 : NET 챌린지 캠프 시즌9
-![image](https://user-images.githubusercontent.com/68285922/215022586-a05788af-8381-4376-a54d-1dc6007fcc73.png)
+<div align=center><image src="https://user-images.githubusercontent.com/68285922/215022586-a05788af-8381-4376-a54d-1dc6007fcc73.png" width="500px" height="650px"></div>
 
 - 일정
    - 참가신청 22.4.20 ~ 5.11
@@ -65,7 +71,7 @@
 <br>
 
 ## 4. 전국 대학생 앱 개발 챌린지 K-해커톤
-![image](https://user-images.githubusercontent.com/68285922/215024895-d5627855-8d2a-482e-8d15-b9124b07dcd4.png)
+<div align=center><image src="https://user-images.githubusercontent.com/68285922/215024895-d5627855-8d2a-482e-8d15-b9124b07dcd4.png" width="500px" height="650px"></div>
 
 - 일정
    - 참가신청 22.5.16~6.17
@@ -83,7 +89,7 @@
 <br>
 
 ## 5.  2022년 한이음 ICT멘토링 공모전
-![image](https://user-images.githubusercontent.com/68285922/215025888-83c656e7-992d-4350-991c-4870b49d8727.png)
+<div align=center><image src = "https://user-images.githubusercontent.com/68285922/215025888-83c656e7-992d-4350-991c-4870b49d8727.png" width="500px" height="650px"></div>
 
 - 일정
    - 참가신청 22.8.1 ~ 8.22
